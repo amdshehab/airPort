@@ -1,0 +1,8 @@
+/home/hyper0009/projects/airPlane/bin/Debug/netcoreapp1.1/airPlane.deps.json
+/home/hyper0009/projects/airPlane/bin/Debug/netcoreapp1.1/airPlane.runtimeconfig.json
+/home/hyper0009/projects/airPlane/bin/Debug/netcoreapp1.1/airPlane.runtimeconfig.dev.json
+/home/hyper0009/projects/airPlane/bin/Debug/netcoreapp1.1/airPlane.dll
+/home/hyper0009/projects/airPlane/bin/Debug/netcoreapp1.1/airPlane.pdb
+/home/hyper0009/projects/airPlane/obj/Debug/netcoreapp1.1/airPlane.AssemblyInfo.cs
+/home/hyper0009/projects/airPlane/obj/Debug/netcoreapp1.1/airPlane.dll
+/home/hyper0009/projects/airPlane/obj/Debug/netcoreapp1.1/airPlane.pdb

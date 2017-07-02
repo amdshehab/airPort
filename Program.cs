@@ -1,12 +1,12 @@
-using System;
+﻿using System;
 
-namespace ConsoleApplication
+namespace airPlane
 {
-    public class Something
+    class Program
     {
-        public static void Bam()
+        static void Main(string[] args)
         {
-            Console.WriteLie("hellow world")
+            Console.WriteLine("Hello World!");
         }
     }
 }
