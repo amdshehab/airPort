@@ -6,7 +6,9 @@ namespace airPlane
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var name = "ahmed";
+            var hello = "hello";
+            Console.WriteLine($"{hello} {name}!");
         }
     }
 }
