@@ -10,5 +10,9 @@ namespace airPlane
             var hello = "hello";
             Console.WriteLine($"{hello} {name}!");
         }
+        static void Boom(string[] args)
+        {
+            var airport = 0
+        }
     }
 }
